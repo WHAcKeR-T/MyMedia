@@ -12,4 +12,4 @@ cd server
 npm start
 ```
 ##Screenshot
-![screenshot](https://github.com/WHAcKeR-T/Idealer/blob/main/Screenshot.png)
+![screenshot](https://github.com/WHAcKeR-T/MyMedia/blob/main/Screenshot.png)
